@@ -71,6 +71,7 @@ nav{
     position: relative;
     left: 30px;
     top: 15px;
+    opacity: 0.4;
     color: #009DFF;
 }
 
