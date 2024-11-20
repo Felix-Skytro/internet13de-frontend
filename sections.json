@@ -1,0 +1,32 @@
+[
+    {
+      "header": "Mein Prinzip",
+      "informations": [
+        {
+          "text": "Ich mag das internet!",
+          "image_url": "https://http.cat/200",
+          "url": "https://webhost.internet13.com"
+        }
+      ]
+    },
+    {
+      "header": "Partner",
+      "informations": [
+        {
+          "text": "SkyKopf kümmert sich um das Branding von Internet13, so haben sie zum beispiel diese website hier entwickelt!",
+          "image_url": "https://http.cat/418",
+          "url": "https://skykopf.de"
+        }
+      ]
+    },
+    {
+      "header": "Microschrott",
+      "informations": [
+        {
+          "text": "Hello this is Miroschrott tech-support!",
+          "image_url": "",
+          "url": "https://microschrott.com"
+        }
+      ]
+    }
+  ]
