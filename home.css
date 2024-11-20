@@ -46,6 +46,10 @@ nav{
 
 }
 
+.sectionDisplay{
+    z-index: 2;
+}
+
 .logo{
 
     max-width: 130px;
