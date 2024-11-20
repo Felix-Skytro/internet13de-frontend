@@ -48,6 +48,30 @@ nav{
 
 .sectionDisplay{
     z-index: 2;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.SD1{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.SD2{
+    position: relative;
+    left: -30px;
+    top: -15px;
+    opacity: 0.4;
+    color: #000DFF;
+}
+.SD3{
+    position: relative;
+    left: 30px;
+    top: 15px;
+    color: #009DFF;
 }
 
 .logo{
