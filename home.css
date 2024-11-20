@@ -61,14 +61,19 @@ nav{
 
     background: #1E1E1E;
 
+    height: 100%;
+
 }
 
 .NBL1{
     opacity: 1;
+    width: calc(100% - 30px);
 }
 .NBL2{
     opacity: .7;
+    width: calc(100% - 15px);
 }
 .NBL3{
     opacity: .4;
+    width: 100%;
 }
