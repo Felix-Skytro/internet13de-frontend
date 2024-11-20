@@ -49,6 +49,7 @@ nav{
 .logo{
 
     max-width: 130px;
+    z-index: 2;
 
 }
 
@@ -62,6 +63,8 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
+
+    z-index: 1;
 
 }
 
