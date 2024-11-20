@@ -3,8 +3,28 @@
       "header": "Mein Prinzip",
       "informations": [
         {
-          "text": "Ich mag das internet!",
-          "image_url": "https://http.cat/200",
+          "text": "Ich möchte leuten helfen, von denen ich überzeugt bin. Hier glänze ich besonders mit meinen Jahren an erfahrung betreffend in der Server Infrastruktur",
+          "image_url": "",
+          "url": "https://webhost.internet13.com"
+        }
+      ]
+    },
+    {
+      "header": "Über Internet13",
+      "informations": [
+        {
+          "text": "Internet13 - blahblahbal",
+          "image_url": "https://internet13.de/Logo.png",
+          "url": "https://webhost.internet13.com"
+        }
+      ]
+    },
+    {
+      "header": "Infrastruktur",
+      "informations": [
+        {
+          "text": "Zum aktuellen zeitpunkt wird der Service Internet13 durch 3 Dell Power Edge 720 sowie einem SuperMicro gestützt. Durch diese server erhaltet ihr die leistung die ihr benötigt um ordentlich eindruck mit euren Projekten zu hinterlassen!",
+          "image_url": "",
           "url": "https://webhost.internet13.com"
         }
       ]
@@ -13,19 +33,19 @@
       "header": "Partner",
       "informations": [
         {
-          "text": "SkyKopf kümmert sich um das Branding von Internet13, so haben sie zum beispiel diese website hier entwickelt!",
-          "image_url": "https://http.cat/418",
-          "url": "https://skykopf.de"
+          "text": "- SkyKopf kümmert sich um das Branding von Internet13, so haben sie zum beispiel diese website hier entwickelt! <br> - Mira_4141 ist eine Deutsche VTuberin für die ich 1-2 Projekte hoste.",
+          "image_url": "",
+          "url": ""
         }
       ]
     },
     {
-      "header": "Microschrott",
+      "header": "Changelog",
       "informations": [
         {
-          "text": "Hello this is Miroschrott tech-support!",
+          "text": "Diese website wurde zum Leben erweckt, juhu",
           "image_url": "",
-          "url": "https://microschrott.com"
+          "url": ""
         }
       ]
     }

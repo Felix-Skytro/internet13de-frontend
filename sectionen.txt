@@ -1,0 +1,20 @@
+Mein Prinzip
+    - Unterstützen von Leuten die Krabs cool findet
+
+Über Internet13
+    - Seit wann
+    - Warum
+    - Ziele
+
+Infrastruktur
+    - 3 Dell Power Edge 720
+    - SuperMicro
+
+Cooperationen
+    - Mira_4141
+    - SkyKopf
+    - Unfixed Project
+
+Changelog
+    - Was so in letzter zeit passiert (Neue Server, Upgrades, Neue Cooperationen, etc.)
+    - Downtimes & Resolves
