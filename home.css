@@ -65,14 +65,14 @@ nav{
 }
 .SD2{
     position: relative;
-    left: 30px;
+    left: 50px;
     top: -5px;
     opacity: 0.4;
     color: #000DFF;
 }
 .SD3{
     position: relative;
-    left: -30px;
+    left: -50px;
     top: 5px;
     opacity: 0.4;
     color: #009DFF;
