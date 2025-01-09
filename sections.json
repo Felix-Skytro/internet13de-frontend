@@ -14,7 +14,7 @@
       "informations": [
         {
           "text": "Internet13 - blahblahbal",
-          "image_url": "https://internet13.de/Logo.png",
+          "image_url": "./Logo.png",
           "url": "https://webhost.internet13.com"
         }
       ]
